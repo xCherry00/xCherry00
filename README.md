@@ -1,5 +1,5 @@
 💫 About Me:
-## About Me<br><br>Fullstack Developer | Python | PostgreSQL | Data Engineering | AI Enthusiast<br><br>I’m currently working on  <br>- **Automotive-DWH** – Data Warehouse project with ETL pipeline (Python + PostgreSQL + Docker)  <br>- **TTRPG Assistant** – Fullstack web application for managing tabletop RPG campaigns (Spring Boot + React)<br><br>I’m currently learning  <br>- Data Engineering concepts  <br>- Advanced SQL and query optimization  <br>- AI and machine learning applications  <br>- Building and experimenting with my own AI tools and local models<br><br>Fun fact  <br>I enjoy building tools for tabletop RPG games and worldbuilding systems.
+## About Me<br><br>Fullstack Developer | Python | PostgreSQL | Data Engineering | AI Enthusiast<br><br>I’m currently working on <<br>- **TTRPG Assistant** – Fullstack web application for managing tabletop RPG campaigns (Spring Boot + React)<br><br>I’m currently learning  <br>- Data Engineering concepts  <br>- Advanced SQL and query optimization  <br>- AI and machine learning applications
 
 
 # 💻 Tech Stack:
