@@ -1,6 +1,6 @@
 ## About Me<br><br>Fullstack Developer | Python | PostgreSQL | Data Engineering | AI Enthusiast
-<br><br>I’m currently working on <br> **TTRPG Assistant** – Fullstack web application for managing tabletop RPG campaigns (Spring Boot + React)<br>
-<br> **RPG Soundboard** – Electron desktop app for playing ambient sounds and SFX in Discord voice channels during tabletop RPG sessions<br><br>
+<br><br>I’m currently working on <br> **TTRPG Assistant** – Fullstack web application for managing tabletop RPG campaigns (Spring Boot + React)
+<br>**RPG Soundboard** – Electron desktop app for playing ambient sounds and SFX in Discord voice channels during tabletop RPG sessions<br><br>
 I’m currently learning  <br>- Data Engineering concepts  <br>- Advanced SQL and query optimization  <br>- AI and machine learning applications
 
 
